@@ -1,8 +1,9 @@
 # About me :slightly_smiling_face:
 
 **JoelGrathwohl/JoelGrathwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my PhD in sports neuroscience.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---
+-->
